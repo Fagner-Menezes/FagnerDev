@@ -21,7 +21,7 @@ public class FuncoesString {
 		System.out.println("replace('a', 'x'): -" + s06 + "-");
 		System.out.println("replace('abc', 'xy'): -" + s07 + "-");
 		System.out.println("Index of 'bc': " + i);
-		System.out.println("Ultimo Index of 'bc': " + j);
+		System.out.println("Last Index of 'bc': " + j);
 
 	}
 
